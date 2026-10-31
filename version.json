@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.56",
-  "versionCode": 2057,
+  "versionName": "1.0.57",
+  "versionCode": 2058,
   "apkUrl": "https://raw.githubusercontent.com/fadrizbub/melomochi-apk/main/melomochi-latest-release.apk",
   "changelog": [
     "Dialog dan notifikasi update kini mengikuti bahasa aktif aplikasi (Indonesia/Inggris), dan notifikasi push mengikuti bahasa perangkat",
@@ -19,7 +19,8 @@
     "Keyboard chat kini selalu menggeser daftar ke pesan terbaru saat dibuka, di chat private maupun grup, sehingga pesan tidak tertutup keyboard",
     "Dialog setelah update kini menampilkan changelog bahasa Inggris dengan benar di mode EN, termasuk untuk update dari versi lama",
     "Tombol Filter di Search Social kini terbaca jelas di mode gelap",
-    "Sheet komentar postingan dan Reels, sheet Bagikan ke Teman, dan sheet pemilih segmen audio kini gelap dengan benar di mode gelap, sehingga nama penulis dan teks komentar terbaca jelas"
+    "Sheet komentar postingan dan Reels, sheet Bagikan ke Teman, dan sheet pemilih segmen audio kini gelap dengan benar di mode gelap, sehingga nama penulis dan teks komentar terbaca jelas",
+    "Tombol lonceng notifikasi di Social dan Music kini terbaca jelas di mode gelap"
   ],
   "changelog_en": [
     "Update dialogs and notifications now follow the app's active language (Indonesian/English), and push notifications follow the device language",
@@ -38,6 +39,7 @@
     "The chat keyboard now always scrolls the list to the latest message when opened, in private and group chats, so messages are never covered by the keyboard",
     "The after-update dialog now shows the English changelog correctly in EN mode, including for updates from older versions",
     "The Filter button in Social Search is now clearly readable in dark mode",
-    "The post and Reels comment sheet, Share to Friends sheet, and audio segment picker sheet are now properly dark in dark mode, so author names and comment text are clearly readable"
+    "The post and Reels comment sheet, Share to Friends sheet, and audio segment picker sheet are now properly dark in dark mode, so author names and comment text are clearly readable",
+    "The notification bell button in Social and Music is now clearly readable in dark mode"
   ]
 }
