@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.54",
-  "versionCode": 2055,
+  "versionName": "1.0.56",
+  "versionCode": 2057,
   "apkUrl": "https://raw.githubusercontent.com/fadrizbub/melomochi-apk/main/melomochi-latest-release.apk",
   "changelog": [
     "Dialog dan notifikasi update kini mengikuti bahasa aktif aplikasi (Indonesia/Inggris), dan notifikasi push mengikuti bahasa perangkat",
@@ -16,7 +16,10 @@
     "Tombol Simpan Playlist beserta jumlah menyimpannya kini tampil juga di halaman detail playlist",
     "Hapus chat dari daftar, dan pilih banyak chat sekaligus",
     "Chat yang dipilih kini terlihat jelas: border pink dan lencana centang, dan Select All berubah menjadi Unselect All",
-    "Keyboard chat kini selalu menggeser daftar ke pesan terbaru saat dibuka, di chat private maupun grup, sehingga pesan tidak tertutup keyboard"
+    "Keyboard chat kini selalu menggeser daftar ke pesan terbaru saat dibuka, di chat private maupun grup, sehingga pesan tidak tertutup keyboard",
+    "Dialog setelah update kini menampilkan changelog bahasa Inggris dengan benar di mode EN, termasuk untuk update dari versi lama",
+    "Tombol Filter di Search Social kini terbaca jelas di mode gelap",
+    "Sheet komentar postingan dan Reels, sheet Bagikan ke Teman, dan sheet pemilih segmen audio kini gelap dengan benar di mode gelap, sehingga nama penulis dan teks komentar terbaca jelas"
   ],
   "changelog_en": [
     "Update dialogs and notifications now follow the app's active language (Indonesian/English), and push notifications follow the device language",
@@ -32,6 +35,9 @@
     "The Save Playlist button with its save count now also appears on the playlist detail page",
     "Delete chats from the list, and select multiple chats at once",
     "Selected chats are now clearly visible: pink border and check badge, and Select All toggles to Unselect All",
-    "The chat keyboard now always scrolls the list to the latest message when opened, in private and group chats, so messages are never covered by the keyboard"
+    "The chat keyboard now always scrolls the list to the latest message when opened, in private and group chats, so messages are never covered by the keyboard",
+    "The after-update dialog now shows the English changelog correctly in EN mode, including for updates from older versions",
+    "The Filter button in Social Search is now clearly readable in dark mode",
+    "The post and Reels comment sheet, Share to Friends sheet, and audio segment picker sheet are now properly dark in dark mode, so author names and comment text are clearly readable"
   ]
 }
