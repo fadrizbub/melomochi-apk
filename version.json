@@ -1,1 +1,16 @@
-{"versionName":"1.0.39","versionCode":2040,"apkUrl":"https://raw.githubusercontent.com/fadrizbub/melomochi-apk/main/melomochi-latest-release.apk","changelog":["Dialog \"Apa yang baru\" kini muncul juga untuk update yang dipasang manual","Tab For You, Following, dan Terkini tidak lagi tertimpa tombol Music/Social","Tab section profil kini hanya ikon, tanpa tulisan","Voice note yang gagal dimuat kini bisa diputar (dan bisa dicoba lagi bila gagal)","Bookmark langsung sinkron tanpa refresh manual","Ketuk notifikasi komentar kini selalu menyorot komentarnya, termasuk di postingan ramai","Notifikasi baru: ada yang menyukai komentarmu","Keyboard tidak lagi tertutup saat mengetik @ di komentar dan chat","Tombol update manual di kanan atas profil, muncul bila ada versi baru"]}
+{
+  "versionName": "1.0.46",
+  "versionCode": 2047,
+  "apkUrl": "https://raw.githubusercontent.com/fadrizbub/melomochi-apk/main/melomochi-latest-release.apk",
+  "changelog": [
+    "Voice note kini bisa diputar dengan durasi yang benar",
+    "Chat dan grup: pesan terkirim instan dan tersimpan lokal, kembali ke posisi baca terakhir, dan bisa lompat ke pesan yang dibalas",
+    "Daftar grup kini menampilkan preview chat terakhir",
+    "Postingan bisa dibuka ke halaman detailnya; caption panjang hanya diperluas di detail, bukan di preview feed",
+    "Notifikasi pesan grup tidak lagi muncul ganda",
+    "Keyboard tetap terbuka saat mention @ di chat dan komentar",
+    "Chat grup dan privat kini punya batas pesan dan tampilan selengkapnya ala WhatsApp",
+    "Tombol Upload di atas Reels dihapus, pembuatan Reels tetap lewat tombol lainnya",
+    "Penegakan untuk akun yang dibatasi kini berlaku di chat dan unggahan"
+  ]
+}
