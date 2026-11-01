@@ -1,9 +1,11 @@
 {
-  "versionName": "1.0.59",
-  "versionCode": 2060,
+  "versionName": "1.0.60",
+  "versionCode": 2061,
   "apkUrl": "https://raw.githubusercontent.com/fadrizbub/melomochi-apk/main/melomochi-latest-release.apk",
   "changelog": [
     "WAJIB UPDATE: versi ini memakai database baru hasil migrasi — update aplikasi agar lagu, playlist, dan fitur sosial tetap sinkron",
+    "Daftar saran @mention di komentar dan chat grup kini terbaca jelas di mode gelap",
+    "Jumlah saves playlist di Beranda kini berubah realtime saat ada yang menyimpan atau membatalkan simpanan, tanpa refresh",
     "Migrasi database dan penyimpanan media ke sistem baru, termasuk seluruh data lagu, playlist, dan sosial",
     "Mode gelap: baris Teruskan, sheet edit postingan/Reels, bar balasan dan sheet opsi chat private, baris pemilih audio, chip GIF, dan chip buat Story kini terbaca jelas",
     "Mode gelap: border kartu chat, chip anggota grup, chip filter feed, dan bar perekam suara kini selaras",
@@ -18,6 +20,8 @@
   ],
   "changelog_en": [
     "UPDATE REQUIRED: this version uses the new database from the migration — update the app so songs, playlists, and social features stay in sync",
+    "The @mention suggestion list in comments and group chats is now clearly readable in dark mode",
+    "Playlist save counts on Home now update in real time when someone saves or unsaves, without refreshing",
     "Migration of the database and media storage to the new system, including all songs, playlists, and social data",
     "Dark mode: forward rows, the post/Reels edit sheet, the private chat reply bar and options sheet, audio picker rows, GIF chips, and story creation chips are now clearly readable",
     "Dark mode: chat card borders, group member chips, feed filter chips, and the voice recorder bar are now consistent",
