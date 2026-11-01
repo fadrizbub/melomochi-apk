@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.64",
-  "versionCode": 2065,
+  "versionName": "1.0.65",
+  "versionCode": 2066,
   "apkUrl": "https://raw.githubusercontent.com/fadrizbub/melomochi-apk/main/melomochi-latest-release.apk",
   "changelog": [
     "WAJIB UPDATE: versi ini memakai database baru hasil migrasi — update aplikasi agar lagu, playlist, dan fitur sosial tetap sinkron",
@@ -24,7 +24,8 @@
     "Lingkaran story kini muncul di foto profil pengguna di komentar, pencarian, daftar chat, daftar teman, header private chat, dan daftar anggota grup — seperti Instagram, jika pengguna itu punya story aktif",
     "Swipe story tidak lagi tiba-tiba kembali ke story pertama",
     "Ketuk foto profil yang bercincin story kini langsung membuka story-nya, baik yang sudah maupun belum dilihat",
-    "Progress story kini lanjut dari titik beku setelah dijeda, tidak lagi berhenti"
+    "Progress story kini lanjut dari titik beku setelah dijeda, tidak lagi berhenti",
+    "Menu notifikasi kini langsung tampil dari cache tanpa loading ulang, dengan sinkronisasi diam-diam dan notif baru tetap masuk realtime"
   ],
   "changelog_en": [
     "UPDATE REQUIRED: this version uses the new database from the migration — update the app so songs, playlists, and social features stay in sync",
@@ -48,6 +49,7 @@
     "Story rings now appear on user avatars in comments, search, chat list, friends lists, private chat headers, and group member lists — like Instagram, when a user has an active story",
     "Story swiping no longer jumps back to the first story",
     "Tapping a story-ringed avatar now opens that user's stories, seen or unseen",
-    "Story progress now resumes from where it paused instead of freezing"
+    "Story progress now resumes from where it paused instead of freezing",
+    "Notifications now open instantly from cache with no reload, while silent sync and realtime new items keep working"
   ]
 }
