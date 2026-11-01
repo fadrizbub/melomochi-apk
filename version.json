@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.61",
-  "versionCode": 2062,
+  "versionName": "1.0.63",
+  "versionCode": 2064,
   "apkUrl": "https://raw.githubusercontent.com/fadrizbub/melomochi-apk/main/melomochi-latest-release.apk",
   "changelog": [
     "WAJIB UPDATE: versi ini memakai database baru hasil migrasi — update aplikasi agar lagu, playlist, dan fitur sosial tetap sinkron",
@@ -18,7 +18,10 @@
     "Bahasa: teks error saat profil gagal dimuat kini mengikuti bahasa aktif",
     "Bahasa: pilihan genre di upload dan edit lagu, serta tombol Muat Lagi kini mengikuti bahasa aktif",
     "Tombol +Post dan +Reels di profil sosial kini terbaca jelas di mode gelap, selaras dengan tombol Edit Profil dan +Story",
-    "Perbaikan simpan playlist agar tetap tersimpan dengan benar"
+    "Perbaikan simpan playlist agar tetap tersimpan dengan benar",
+    "Geser story kini pindah ke story user berikutnya/sebelumnya ala Instagram, lengkap dengan efek geser dan story sebelah yang mengintip",
+    "Ketukan yang berbarengan dengan habisnya story otomatis tidak lagi membuat viewer melompati story",
+    "Lingkaran story kini muncul di foto profil pengguna di komentar, pencarian, daftar chat, daftar teman, header private chat, dan daftar anggota grup — seperti Instagram, jika pengguna itu punya story aktif"
   ],
   "changelog_en": [
     "UPDATE REQUIRED: this version uses the new database from the migration — update the app so songs, playlists, and social features stay in sync",
@@ -36,6 +39,9 @@
     "Language: the error text when the profile fails to load now follows the active language",
     "Language: genre choices in song upload and edit, and the Load More button now follow the active language",
     "The +Post and +Reels buttons on the social profile are now clearly readable in dark mode, matching the Edit Profile and +Story buttons",
-    "Fixed playlist saving so saved playlists stay saved correctly"
+    "Fixed playlist saving so saved playlists stay saved correctly",
+    "Story swiping now jumps to the next or previous user's stories like Instagram, complete with the sliding effect and a peek at the neighboring story",
+    "A tap landing right as a story auto-advances no longer makes the viewer skip a story",
+    "Story rings now appear on user avatars in comments, search, chat list, friends lists, private chat headers, and group member lists — like Instagram, when a user has an active story"
   ]
 }
