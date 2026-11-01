@@ -1,9 +1,11 @@
 {
-  "versionName": "1.0.60",
-  "versionCode": 2061,
+  "versionName": "1.0.61",
+  "versionCode": 2062,
   "apkUrl": "https://raw.githubusercontent.com/fadrizbub/melomochi-apk/main/melomochi-latest-release.apk",
   "changelog": [
     "WAJIB UPDATE: versi ini memakai database baru hasil migrasi — update aplikasi agar lagu, playlist, dan fitur sosial tetap sinkron",
+    "Navigasi story diperbaiki ala Instagram: geser kiri untuk lanjut, geser kanan untuk mundur, dan tombol kembali tidak lagi nyasar ke story awal user sebelumnya",
+    "Ketukan next yang cepat kini maju tepat satu story, tidak lagi melompat atau kembali ke awal",
     "Daftar saran @mention di komentar dan chat grup kini terbaca jelas di mode gelap",
     "Jumlah saves playlist di Beranda kini berubah realtime saat ada yang menyimpan atau membatalkan simpanan, tanpa refresh",
     "Migrasi database dan penyimpanan media ke sistem baru, termasuk seluruh data lagu, playlist, dan sosial",
@@ -20,6 +22,8 @@
   ],
   "changelog_en": [
     "UPDATE REQUIRED: this version uses the new database from the migration — update the app so songs, playlists, and social features stay in sync",
+    "Story navigation fixed Instagram-style: swipe left for next, swipe right for previous, and going back no longer jumps to the previous user's first story",
+    "Rapid next taps now advance exactly one story, without skipping or jumping back to the start",
     "The @mention suggestion list in comments and group chats is now clearly readable in dark mode",
     "Playlist save counts on Home now update in real time when someone saves or unsaves, without refreshing",
     "Migration of the database and media storage to the new system, including all songs, playlists, and social data",
