@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.63",
-  "versionCode": 2064,
+  "versionName": "1.0.64",
+  "versionCode": 2065,
   "apkUrl": "https://raw.githubusercontent.com/fadrizbub/melomochi-apk/main/melomochi-latest-release.apk",
   "changelog": [
     "WAJIB UPDATE: versi ini memakai database baru hasil migrasi — update aplikasi agar lagu, playlist, dan fitur sosial tetap sinkron",
@@ -21,7 +21,10 @@
     "Perbaikan simpan playlist agar tetap tersimpan dengan benar",
     "Geser story kini pindah ke story user berikutnya/sebelumnya ala Instagram, lengkap dengan efek geser dan story sebelah yang mengintip",
     "Ketukan yang berbarengan dengan habisnya story otomatis tidak lagi membuat viewer melompati story",
-    "Lingkaran story kini muncul di foto profil pengguna di komentar, pencarian, daftar chat, daftar teman, header private chat, dan daftar anggota grup — seperti Instagram, jika pengguna itu punya story aktif"
+    "Lingkaran story kini muncul di foto profil pengguna di komentar, pencarian, daftar chat, daftar teman, header private chat, dan daftar anggota grup — seperti Instagram, jika pengguna itu punya story aktif",
+    "Swipe story tidak lagi tiba-tiba kembali ke story pertama",
+    "Ketuk foto profil yang bercincin story kini langsung membuka story-nya, baik yang sudah maupun belum dilihat",
+    "Progress story kini lanjut dari titik beku setelah dijeda, tidak lagi berhenti"
   ],
   "changelog_en": [
     "UPDATE REQUIRED: this version uses the new database from the migration — update the app so songs, playlists, and social features stay in sync",
@@ -42,6 +45,9 @@
     "Fixed playlist saving so saved playlists stay saved correctly",
     "Story swiping now jumps to the next or previous user's stories like Instagram, complete with the sliding effect and a peek at the neighboring story",
     "A tap landing right as a story auto-advances no longer makes the viewer skip a story",
-    "Story rings now appear on user avatars in comments, search, chat list, friends lists, private chat headers, and group member lists — like Instagram, when a user has an active story"
+    "Story rings now appear on user avatars in comments, search, chat list, friends lists, private chat headers, and group member lists — like Instagram, when a user has an active story",
+    "Story swiping no longer jumps back to the first story",
+    "Tapping a story-ringed avatar now opens that user's stories, seen or unseen",
+    "Story progress now resumes from where it paused instead of freezing"
   ]
 }
