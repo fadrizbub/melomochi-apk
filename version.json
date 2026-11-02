@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.65",
-  "versionCode": 2066,
+  "versionName": "1.0.66",
+  "versionCode": 2067,
   "apkUrl": "https://raw.githubusercontent.com/fadrizbub/melomochi-apk/main/melomochi-latest-release.apk",
   "changelog": [
     "WAJIB UPDATE: versi ini memakai database baru hasil migrasi — update aplikasi agar lagu, playlist, dan fitur sosial tetap sinkron",
@@ -25,7 +25,8 @@
     "Swipe story tidak lagi tiba-tiba kembali ke story pertama",
     "Ketuk foto profil yang bercincin story kini langsung membuka story-nya, baik yang sudah maupun belum dilihat",
     "Progress story kini lanjut dari titik beku setelah dijeda, tidak lagi berhenti",
-    "Menu notifikasi kini langsung tampil dari cache tanpa loading ulang, dengan sinkronisasi diam-diam dan notif baru tetap masuk realtime"
+    "Menu notifikasi kini langsung tampil dari cache tanpa loading ulang, dengan sinkronisasi diam-diam dan notif baru tetap masuk realtime",
+    "Mode gelap: jendela daftar lagu Artis di layar Cari kini gelap solid, tidak lagi transparan sehingga daftar artis di belakangnya tidak menembus"
   ],
   "changelog_en": [
     "UPDATE REQUIRED: this version uses the new database from the migration — update the app so songs, playlists, and social features stay in sync",
@@ -50,6 +51,7 @@
     "Story swiping no longer jumps back to the first story",
     "Tapping a story-ringed avatar now opens that user's stories, seen or unseen",
     "Story progress now resumes from where it paused instead of freezing",
-    "Notifications now open instantly from cache with no reload, while silent sync and realtime new items keep working"
+    "Notifications now open instantly from cache with no reload, while silent sync and realtime new items keep working",
+    "Dark mode: the artist songs sheet in Search is now solid dark, no longer transparent so the artist list behind it doesn't show through"
   ]
 }
